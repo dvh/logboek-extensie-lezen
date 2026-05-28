@@ -1,5 +1,4 @@
 {
-  "attributes": {
     "$id": "https://schemas.don.apps.digilab.network/ldv/attributes",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "type": "object",
@@ -46,4 +45,3 @@
       "dpl.core.data_subject_id_type"
     ]
   }
-}
